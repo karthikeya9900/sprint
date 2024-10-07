@@ -1,0 +1,22 @@
+3 start
+number:4567
+result:0
+start:7 number x
+f1:5 x ten result=n
+div:2 x ten x
+1 q one q
+5 x ten result=n+result
+3 div
+result=n+result:1 result x result
+7 q x
+7 zero q
+3 f1
+result=n:1 result x result 9 
+ten:10
+one:1
+zero:0
+q:0
+n:0
+x:0
+
+
