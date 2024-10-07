@@ -1,0 +1,28 @@
+first-element-loc:100
+length:0
+result:0
+start:7 first-element-loc movingcell
+7 zero f1
+7 one f2
+7 zero f3
+7 length len
+7 length count
+5 count one end
+7 first-element-loc x
+print:7 f1 x:0
+1 f1 f2 f3
+7 f2 f1
+7 f3 f2
+2 count one count
+5 count one end 
+1 x one x
+3 print
+end:9
+movingcell:0
+zero:0
+one:1
+count:0
+f1:0
+f2:0
+len:0
+f3:0
