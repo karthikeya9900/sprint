@@ -1,0 +1,29 @@
+3 start
+n:10 r:0 s:0 count:0 
+f1:0 f2:1 f3:0 c:2
+a:0
+t:0
+start:7 n count 
+2 count two count
+4 n two jump-to-r=1
+check:5 count one jump-to-r=t
+swap:1 f1 f2 f3
+7 f3 t
+7 f2 f1
+7 f3 f2
+2 count one count
+7 f3 a
+c1:5 a c jump-to-a=0check
+2 a two a
+3 c1
+jump-to-a=0check:4 a zero jump-to-sum+f3
+3 check
+jump-to-sum+f3:1 s f3 s
+3 check
+jump-to-r=1:7 one r
+9
+jump-to-r=t:7 t r 
+9
+two:2
+one:1
+zero:0
