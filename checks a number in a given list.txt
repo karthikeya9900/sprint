@@ -1,0 +1,20 @@
+3 7
+first-element:e1 length:5 
+target:2 result:0
+4 length zero halt
+0  e1 address 
+start:4 address:e1 target j1
+1 count one count
+1 address one address
+4 count length halt
+3 start
+halt:9
+count:0
+one:1
+zero:0
+j1:7 one 6 9
+e1:19
+e2:23
+e3:87
+e4:54
+e5:76
