@@ -1,0 +1,24 @@
+3 5 10 0
+7 three n
+4 3 zero 51
+5 3 four 55
+1 s n s
+1 count one count
+4 count n 30
+3 16
+5 3 s 43
+1 n one n
+7 zero s
+3 16
+2 n one n-1
+7 n-1 4 9
+7 zero 4 9
+7 one 4 9 
+one:1
+three:3
+n:0
+zero:0
+four:4
+s:0
+count:0
+n-1:0
