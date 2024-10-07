@@ -1,0 +1,28 @@
+3 start
+list-start:70 len:6
+start:5 len two end
+7 list-start f
+1 list-start len l
+2 l one l
+swap:7 f x1
+  7 f x2
+  7 l y1 
+  7 l y2
+  7 x1:f t
+  7 y1:l x2:f
+  7 t y2:l
+2 len two len
+2 l one l
+1 f one f 
+5 len two end
+3 swap
+end:9
+l:0
+f:0
+s1:0
+s2:0
+two:2 
+one:1 
+t:0 0 0 
+0
+7 8 9 5 4 3 
