@@ -1,0 +1,39 @@
+3 start
+len:7 first:102
+start:5 len two end
+2 len one n-1
+7 zero lc
+initial:7 first current
+1 current one current+1
+7 current+1 next
+7 next y
+7 current x
+check:5 y:next x:current swap
+var-inc:1 y one y
+1 x one x
+1 c one c
+4 c n-1 lccheck
+3 check
+lccheck:4 lc len end
+1 lc one lc
+7 zero c
+3 initial
+end:9
+swap:7 x x1
+7 x x2
+7 y y1
+7 y y2
+     7 x1:x t
+     7 y1:y x2:x
+     7 t y2:y
+     3 var-inc
+two:2
+one:1
+n-1:0
+c:0
+lc:0
+t:0
+zero:0
+current+1:0
+current:0 next:0 0 
+3 8 1 2 9 0 4
